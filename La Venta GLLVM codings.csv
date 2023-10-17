@@ -1,31 +1,31 @@
 HID,X,Y,Realm_Mode,NonTree_Mean,Bare_Mean,Tree_Mean,Elevation_Mean,BIO01_Mean,BIO02_Mean,BIO03_Mean,BIO04_Mean,BIO05_Mean,BIO06_Mean,BIO07_Mean,BIO08_Mean,BIO09_Mean,BIO10_Mean,BIO11_Mean,BIO12_Mean,BIO13_Mean,BIO14_Mean,BIO15_Mean,BIO16_Mean,BIO17_Mean,BIO18_Mean,BIO19_Mean,NPP,Invertivores..1kg,Invertivores.1.10kg,Invertivores..10kg,Herbivores..1kg,Herbivores.1.10kg,Herbivores.10.44kg,Herbivores.44.100kg,Herbivores.100.500kg,Herbivores.500.1000kg,Herbivores..1000kg,Omnivores..1kg,Omnivores.1.10kg,Omnivores..10kg,Carnivores..1kg,Carnivores.1.10kg,Carnivores.10.44kg,Carnivores.44.100kg,Carnivores..100kg
-28033 (PN Mammals + Crocodiles + Eunectes)(Energy corrected),-74.268135,7.255831,Neotropic,25.785611,5.905446,68.308943,543.290452,25.417092,8.910896,88.648998,34.333147,30.576849,20.526281,10.050568,25.107438,25.557369,25.766176,24.957777,2983.682903,424.822279,65.35986,46.559257,1096.02832,277.832181,544.127314,960.658077,2540.366399,56,4,0,64,14,7,2,7,0,2,10,2,0,6,10,1,3,2
-28033 (Current Mammals + Crocodiles + Eunectes)(Energy corrected),,,,,,,,,,,,,,,,,,,,,,,,,,,,56,4,0,64,14,5,1,3,0,0,9,2,0,5,10,1,2,1
-28033 (PN Mammals + Crocodiles + Eunectes),-74.268135,7.255831,Neotropic,25.785611,5.905446,68.308943,543.290452,25.417092,8.910896,88.648998,34.333147,30.576849,20.526281,10.050568,25.107438,25.557369,25.766176,24.957777,2983.682903,424.822279,65.35986,46.559257,1096.02832,277.832181,544.127314,960.658077,2540.366399,56,4,0,64,14,7,2,7,0,2,10,2,0,6,7,2,4,3
-28033 (Current Mammals + Crocodiles + Eunectes),,,,,,,,,,,,,,,,,,,,,,,,,,,,56,4,0,64,14,5,1,3,0,0,9,2,0,5,7,2,3,2
+28033 (PN Mammals + Crocodiles + Eunectes)(Energy corrected),-74.268135,7.255831,Neotropic,25.785611,5.905446,68.308943,543.290452,25.417092,8.910896,88.648998,34.333147,30.576849,20.526281,10.050568,25.107438,25.557369,25.766176,24.957777,2983.682903,424.822279,65.35986,46.559257,1096.02832,277.832181,544.127314,960.658077,2540.366399,56,4,0,64,14,7,2,7,0,2,10,2,0,6,11,1,3,2
+28033 (Current Mammals + Crocodiles + Eunectes)(Energy corrected),,,,,,,,,,,,,,,,,,,,,,,,,,,,56,4,0,64,14,5,1,3,0,0,9,2,0,5,11,1,2,1
+28033 (PN Mammals + Crocodiles + Eunectes),-74.268135,7.255831,Neotropic,25.785611,5.905446,68.308943,543.290452,25.417092,8.910896,88.648998,34.333147,30.576849,20.526281,10.050568,25.107438,25.557369,25.766176,24.957777,2983.682903,424.822279,65.35986,46.559257,1096.02832,277.832181,544.127314,960.658077,2540.366399,56,4,0,64,14,7,2,7,0,2,10,2,0,6,7,3,4,3
+28033 (Current Mammals + Crocodiles + Eunectes),,,,,,,,,,,,,,,,,,,,,,,,,,,,56,4,0,64,14,5,1,3,0,0,9,2,0,5,7,3,3,2
 28033 (Current Mammals),,,,,,,,,,,,,,,,,,,,,,,,,,,,56,4,0,64,14,5,1,3,0,0,9,2,0,5,7,1,1,1
-La Venta mammals + birds + 2 Teiid lizards + C. portai + Eunectes + all turtles + all crocs (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,,16,4,0,15,17,10,2,4,3,4,1,2,1,2,7,5,1,3
-La Venta mammals + birds + 2 Teiid lizards + C. portai + Eunectes + all turtles + all crocs,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,4,0,14,17,7,3,7,3,4,1,2,1,0,4,6,1,6
-La Venta mammals + 2 Teiid lizards + C. portai + Eunectes + all turtles + all crocs (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,14,17,10,2,4,3,4,1,2,1,2,5,5,1,3
-La Venta mammals + 2 Teiid lizards + C. portai + Eunectes + all turtles + all crocs,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,17,7,3,7,3,4,1,2,1,0,2,6,1,6
-La Venta Mammals + Crocodiles + Turtles (energy corrected),,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,14,16,11,2,4,3,4,1,2,1,0,3,4,2,3
-La Venta Mammals + Crocodiles + Turtles,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,17,7,3,7,3,4,1,2,1,0,1,4,2,6
-"La Venta Mammals + Langstonia, Mourasuchus, Purussaurus, Gryposuchus + Tortoises + Teiids + C.portai + E.stirtoni (adjusted)",,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,9,2,4,3,4,1,2,0,2,3,3,1,3
-"La Venta Mammals + Langstonia, Mourasuchus, Purussaurus, Gryposuchus + Tortoises + Teiids + C.portai + E.stirtoni",,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,7,2,6,3,4,1,2,0,0,1,5,1,4
-La Venta Mammals + All crocodilia + Tortoises + Teiids + C.portai + E.stirtoni (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,9,2,4,3,4,1,2,0,2,4,4,1,3
-La Venta Mammals + all crocodilia + Tortoises + Teiids + C.portai + E.stirtoni,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,7,2,6,3,4,1,2,0,0,1,6,1,5
-La Venta Mammals + Langstonia + Mourasuchus + Purussaurus + Gryposuchus (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,7,2,4,3,4,1,2,0,0,1,3,1,3
-La Venta Mammals + Langstonia + Mourasuchus + Purussaurus + Gryposuchus,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,7,2,4,3,4,1,2,0,0,1,2,1,4
-La Venta Mammals + Langstonia + Tortoises + Teiids + C.portai + E.stirtoni (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,9,2,4,3,4,1,2,0,2,3,3,1,0
-La Venta Mammals + Langstonia + Tortoises + Teiids + C.portai + E.stirtoni,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,7,2,6,3,4,1,2,0,0,1,5,1,1
-La Venta Mammals + Langstonia + Tortoises + Teiids + C.portai (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,9,2,4,3,4,1,2,0,1,3,3,1,0
-La Venta Mammals + Langstonia + Tortoises + Teiids + C.portai,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,7,2,6,3,4,1,2,0,0,1,4,1,1
-La Venta Mammals + Birds,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,4,0,14,16,7,2,4,3,4,1,2,0,0,4,2,1,0
-La Venta Mammals + All Crocodilia (energy corrected),,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,7,2,4,3,4,1,2,0,0,2,3,2,3
-La Venta Mammals + All Crocodilia,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,7,2,4,3,4,1,2,0,0,1,3,2,5
-La Venta Mammals + Langstonia (energy corrected),,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,7,2,4,3,4,1,2,0,0,1,2,2,0
-La Venta Mammals + Langstonia,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,7,2,4,3,4,1,2,0,0,1,2,1,1
-La Venta Mammals,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,0,13,16,7,2,4,3,4,1,2,0,0,1,2,1,0
+La Venta mammals + birds + 2 Teiid lizards + C. portai + Eunectes + all turtles + all crocs (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,11,16,5,0,15,16,11,2,4,3,4,1,1,1,2,7,5,1,3
+La Venta mammals + birds + 2 Teiid lizards + C. portai + Eunectes + all turtles + all crocs,,,,,,,,,,,,,,,,,,,,,,,,,,,8,16,5,0,14,16,8,3,7,3,4,1,1,1,0,4,6,1,6
+La Venta mammals + 2 Teiid lizards + C. portai + Eunectes + all turtles + all crocs (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,11,15,4,0,14,16,11,2,4,3,4,1,1,1,2,5,5,1,3
+La Venta mammals + 2 Teiid lizards + C. portai + Eunectes + all turtles + all crocs,,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,16,8,3,7,3,4,1,1,1,0,2,6,1,6
+La Venta Mammals + Crocodiles + Turtles (energy corrected),,,,,,,,,,,,,,,,,,,,,,,,,,,12,15,4,0,14,15,12,2,4,3,4,1,1,1,0,3,4,2,3
+La Venta Mammals + Crocodiles + Turtles,,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,16,8,3,7,3,4,1,1,1,0,1,4,2,6
+"La Venta Mammals + Langstonia, Mourasuchus, Purussaurus, Gryposuchus + Tortoises + Teiids + C.portai + E.stirtoni (adjusted)",,,,,,,,,,,,,,,,,,,,,,,,,,,10,15,4,0,13,15,10,2,4,3,4,1,1,0,2,3,3,1,3
+"La Venta Mammals + Langstonia, Mourasuchus, Purussaurus, Gryposuchus + Tortoises + Teiids + C.portai + E.stirtoni",,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,15,8,2,6,3,4,1,1,0,0,1,5,1,4
+La Venta Mammals + All crocodilia + Tortoises + Teiids + C.portai + E.stirtoni (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,10,15,4,0,13,15,10,2,4,3,4,1,1,0,2,4,4,1,3
+La Venta Mammals + all crocodilia + Tortoises + Teiids + C.portai + E.stirtoni,,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,15,8,2,6,3,4,1,1,0,0,1,6,1,5
+La Venta Mammals + Langstonia + Mourasuchus + Purussaurus + Gryposuchus (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,15,8,2,4,3,4,1,1,0,0,1,3,1,3
+La Venta Mammals + Langstonia + Mourasuchus + Purussaurus + Gryposuchus,,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,15,8,2,4,3,4,1,1,0,0,1,2,1,4
+La Venta Mammals + Langstonia + Tortoises + Teiids + C.portai + E.stirtoni (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,10,15,4,0,13,15,10,2,4,3,4,1,1,0,2,3,3,1,0
+La Venta Mammals + Langstonia + Tortoises + Teiids + C.portai + E.stirtoni,,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,15,8,2,6,3,4,1,1,0,0,1,5,1,1
+La Venta Mammals + Langstonia + Tortoises + Teiids + C.portai (adjusted),,,,,,,,,,,,,,,,,,,,,,,,,,,10,15,4,0,13,15,10,2,4,3,4,1,1,0,1,3,3,1,0
+La Venta Mammals + Langstonia + Tortoises + Teiids + C.portai,,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,15,8,2,6,3,4,1,1,0,0,1,4,1,1
+La Venta Mammals + Birds,,,,,,,,,,,,,,,,,,,,,,,,,,,8,16,5,0,14,15,8,2,4,3,4,1,1,0,0,4,2,1,0
+La Venta Mammals + All Crocodilia (energy corrected),,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,15,8,2,4,3,4,1,1,0,0,2,3,2,3
+La Venta Mammals + All Crocodilia,,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,15,8,2,4,3,4,1,1,0,0,1,3,2,5
+La Venta Mammals + Langstonia (energy corrected),,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,15,8,2,4,3,4,1,1,0,0,1,2,2,0
+La Venta Mammals + Langstonia,,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,15,8,2,4,3,4,1,1,0,0,1,2,1,1
+La Venta Mammals,,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,4,0,13,15,8,2,4,3,4,1,1,0,0,1,2,1,0
 17460,-108.980888,27.41659,Neotropic,70.25518,13.18941,16.55541,423.01522,23.415862,17.72644,57.32633,485.73426,38.857756,7.9586,30.899156,28.339527,22.777539,29.113273,17.392634,694.32365,191.289082,5.189808,113.10487,484.836003,23.080885,408.693949,88.84754,1108.100435,31,2,0,29,4,2,3,4,0,2,13,1,0,3,7,3,2,4
 17622,-108.683532,26.967523,Neotropic,69.629051,10.641477,19.729472,597.765065,23.342034,16.953556,58.305829,446.517035,37.919622,8.845099,29.074522,27.709601,22.865958,28.518854,17.784629,734.531747,199.012234,4.080825,110.960262,504.442413,23.507196,433.818493,94.203754,1157.942398,31,2,0,29,4,2,3,4,0,2,13,1,0,3,7,3,2,4
 17703,-108.917868,26.529999,Neotropic,74.165303,15.736541,10.098156,144.823348,24.570938,16.468492,56.41928,485.992333,39.061283,9.868565,29.192718,29.79573,23.496021,30.222643,18.55137,524.444034,152.370388,1.150682,116.82057,379.617633,10.268757,301.368451,64.849147,882.1922995,28,3,0,30,4,2,1,3,0,1,10,1,0,3,7,3,2,3
